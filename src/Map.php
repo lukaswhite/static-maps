@@ -66,14 +66,14 @@ class Map
      *
      * @var string
      */
-    protected $markerBaseDir = __DIR__.'/../../../resources/images/markers';
+    protected $markerBaseDir = __DIR__.'/../resources/images/markers';
 
     /**
      * The path to the copyright image.
      *
      * @var string
      */
-    protected $copyrightImage = __DIR__.'/../../../resources/images/copyright.png';
+    protected $copyrightImage = __DIR__.'/../resources/images/copyright.png';
 
     /**
      * Whether to cache the map tile images
