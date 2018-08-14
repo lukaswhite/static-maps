@@ -1,0 +1,22 @@
+{
+    "name": "lukaswhite/static-maps",
+    "description": "A PHP class for generating static maps.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lukas White",
+            "email": "hello@lukaswhite.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "7.0",
+        "phpunit/php-code-coverage": "^6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lukaswhite\\StaticMaps\\": "src/"
+        }
+    }
+}
