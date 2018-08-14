@@ -19,3 +19,7 @@ $map->setCenter( $center )
 
 $map->save( '/path/to/some/directory' );
 ```
+
+The result:
+
+![Manchester](https://raw.githubusercontent.com/lukaswhite/static-maps/master/docs/assets/manchester.png)
